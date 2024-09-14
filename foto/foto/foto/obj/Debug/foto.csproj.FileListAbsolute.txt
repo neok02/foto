@@ -1,0 +1,10 @@
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Новая папка (2)\foto\foto\foto\bin\Debug\foto.exe.config
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Новая папка (2)\foto\foto\foto\bin\Debug\foto.exe
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Новая папка (2)\foto\foto\foto\bin\Debug\foto.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Новая папка (2)\foto\foto\foto\obj\Debug\foto.csproj.AssemblyReference.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Новая папка (2)\foto\foto\foto\obj\Debug\foto.Form1.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Новая папка (2)\foto\foto\foto\obj\Debug\foto.Properties.Resources.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Новая папка (2)\foto\foto\foto\obj\Debug\foto.csproj.GenerateResource.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Новая папка (2)\foto\foto\foto\obj\Debug\foto.csproj.CoreCompileInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Новая папка (2)\foto\foto\foto\obj\Debug\foto.exe
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Новая папка (2)\foto\foto\foto\obj\Debug\foto.pdb
